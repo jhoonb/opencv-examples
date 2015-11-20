@@ -8,6 +8,7 @@
 - Mahotas - http://mahotas.rtfd.org / https://github.com/luispedro/mahotas # mesma funcionalidade do pillows, é mais simples de usar.
 - SimpleCV - http://tutorial.simplecv.org/en/latest/ # Apenas Python 2 :(
 - Numpy - https://docs.scipy.org/doc/numpy/reference/ # algoritmos dessa biblioteca são usados no core do OpenCV
+- Referência mais que importante: https://docs.scipy.org/doc/numpy/reference/arrays.ndarray.html
 
 ### OpenCV básico. 
 
